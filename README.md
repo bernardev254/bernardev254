@@ -1,4 +1,4 @@
-## Hi, I’m Bernard, a growth-minded software engineer with a strong passion for lifelong learning and self-improvement. My journey in tech began with a Bachelor’s degree in Technology from the Technical University of Mombasa, followed by an intensive Backend Software Engineering program at ALX, where I embraced the "Do Hard Things" mantra.
+Hi, I’m Bernard, a growth-minded software engineer with a strong passion for lifelong learning and self-improvement. My journey in tech began with a Bachelor’s degree in Technology from the Technical University of Mombasa, followed by an intensive Backend Software Engineering program at ALX, where I embraced the "Do Hard Things" mantra.
 
 My experience is primarily in startups, where I’ve played a key role in supporting mission-critical projects as a software engineer. Currently, I contribute as an open-source developer, solving real-world problems by addressing open issues for companies and collaborating with the developer community.
 
